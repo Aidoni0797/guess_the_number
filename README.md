@@ -3,3 +3,5 @@
 Официальный сайт: golang.org.
 Oнлайн-песочница: https://go.dev/play/
 Robert Griesemer. Go for C programmers: https://go.dev/talks/2012/goforc.slide#1
+
+http://golang-book.ru/ - ссылка книги попробуй понять ты же терпеливая
