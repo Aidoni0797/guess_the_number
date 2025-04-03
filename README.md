@@ -6,4 +6,8 @@ Robert Griesemer. Go for C programmers: https://go.dev/talks/2012/goforc.slide#1
 
 http://golang-book.ru/ - ссылка книги попробуй понять ты же терпеливая
 
+
 https://go.dev/ref/spec#Types
+
+
+https://go.dev/talks/2016/refactor.article
